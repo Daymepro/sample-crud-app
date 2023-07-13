@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Product list logo" src="https://github.com/eltonlazzarin/angular-products-crud/blob/main/frontend/src/assets/svg/checklist.svg" height="67px" width="71px" />
+	<img alt="Product list logo" src="https://github.com/Daymepro/sample-crud-app/blob/main/frontend/src/assets/svg/checklist.svg" height="67px" width="71px" />
 </h1>
 
 <h3 align="center">
@@ -27,7 +27,7 @@ Technologies that I used to develop this api
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
+$ git clone https://github.com/Daymepro/sample-crud-app.git
 
 $ cd angular-products-crud
 
@@ -50,7 +50,7 @@ $ yarn start
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
+$ git clone https://github.com/Daymepro/sample-crud-app.git
 
 $ cd angular-products-crud
 
@@ -70,7 +70,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Backend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/angular-products-crud/blob/master/LICENSE) for more information.
+This project is under the MIT license.
 
 ## 🚀 Frontend Technologies
 
@@ -125,7 +125,7 @@ $ http://localhost:4200
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
+$ git clone https://github.com/Daymepro/sample-crud-app.git
 
 $ cd angular-products-crud
 
@@ -145,5 +145,5 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Frontend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/angular-products-crud/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Daymepro/sample-crud-app/blob/master/LICENSE) for more information.
 
