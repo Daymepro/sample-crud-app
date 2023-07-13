@@ -6,39 +6,6 @@
   Simple products project build with Angular 9
 </h3>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/angular-products-crud">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/angular-products-crud">
-
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/angular-products-crud">
-
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/angular-products-crud">
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/angular-products-crud">
-</p>
-
-<p align="center">
-  <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-backend-getting-started">Backend Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute-backend">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-backend-license">Backend License</a>
-</p>
-
-<p align="center">
-  <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="#-frontend-technologies">Frontend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-frontend-getting-started">Frontend Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute-frontend">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-frontend-license">Frontend License</a>
-</p>
-
-## 👨🏻‍💻 About the project
-
-<h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/angular-products-crud/blob/main/screenshots/angular-project-crud.gif" />
-</h1>
 
 <p>This application consists of a simple product CRUD created from my studies regarding Angular 9, so with it it is possible to list, create, update and delete products coming from a fake API.</p>
 
